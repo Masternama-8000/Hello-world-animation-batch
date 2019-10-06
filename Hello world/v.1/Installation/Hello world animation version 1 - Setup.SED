@@ -35,3 +35,4 @@ FILE0="Hello world animation v.1.zip"
 SourceFiles0=C:\Users\kaushal\Desktop\Files Sfuff\
 [SourceFiles0]
 %FILE0%=
+ 
